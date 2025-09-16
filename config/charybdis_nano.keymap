@@ -1,0 +1,4 @@
+# Starter file for the ZMK Keymap Editor
+keymap:
+  - layer: DEFAULT
+    bindings: []
